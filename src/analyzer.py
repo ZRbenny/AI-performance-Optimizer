@@ -1,4 +1,3 @@
-# src/analyzer.py
 def analyze_metrics(metrics):
     issues = []
 
