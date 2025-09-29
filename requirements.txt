@@ -1,0 +1,6 @@
+psutil
+scikit-learn
+openai
+pandas
+numpy
+streamlit   # optional, for dashboard later
