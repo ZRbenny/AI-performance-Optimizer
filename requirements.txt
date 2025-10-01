@@ -4,3 +4,10 @@ openai
 pandas
 numpy
 streamlit   # optional, for dashboard later
+prettytable
+python-dateutil
+streamlit
+
+
+comment: 
+python -m streamlit run src/dashboard.py
